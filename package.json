@@ -1,0 +1,16 @@
+{
+  "name": "tabla-mult",
+  "version": "1.0.0",
+  "description": "Esta es una app de línea de comando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romina Fior",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.5",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}
